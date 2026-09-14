@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hotspots"
+  short_description: "全网热点简报：AIHOT AI 精选 + NewsNow 多平台热榜 + SoPilot X 热帖"
+  default_prompt: "使用 $hotspots 出一份今天的热点早报。"
